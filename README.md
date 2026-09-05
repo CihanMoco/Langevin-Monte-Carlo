@@ -48,7 +48,6 @@ Each script writes its figures to `plots/` and its numerical results to `results
 2. Gareth O. Roberts and Richard L. Tweedie. Exponential convergence of Langevin distributions and their discrete approximations. *Bernoulli*, 2(4):341–363, 1996.
 3. Arnak S. Dalalyan. Theoretical guarantees for approximate sampling from smooth and log-concave densities. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(3):651–676, 2017. doi: 10.1111/rssb.12183.
 4. Alain Durmus and Éric Moulines. Nonasymptotic convergence analysis for the unadjusted Langevin algorithm. *The Annals of Applied Probability*, 27(3):1551–1587, 2017. doi: 10.1214/16-AAP1238.
-5. sampling-using-SDEs. https://github.com/maxcyn/sampling-using-SDEs, 2026. GitHub repository.
 6. Andrew Duncan. M4A44: Computational stochastic processes. Lecture notes, Imperial College London, 2016.
 7. Xiang Cheng, Niladri S. Chatterji, Peter L. Bartlett, and Michael I. Jordan. Underdamped Langevin MCMC: A non-asymptotic analysis. In *Proceedings of the 31st Conference on Learning Theory*, volume 75 of *PMLR*, pages 300–323, 2018.
 8. Edward Nelson. *Dynamical Theories of Brownian Motion*. Princeton University Press, 1967. doi: 10.1515/9780691219615.
