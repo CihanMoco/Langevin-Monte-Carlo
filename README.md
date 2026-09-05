@@ -16,13 +16,13 @@ experiments from scratch.
 ## Repository Structure
 ```
 langevin-monte-carlo/
-├── paper/                       # the group paper (add langevin_monte_carlo.pdf here)
+├── paper/                       # research paper
 ├── src/
 │   ├── samplers/                # ula.py, mala.py, klmc.py
 │   ├── targets/                 # gaussian.py, linear_regression.py, logistic_regression.py
 │   └── diagnostics/             # mixing.py (FFT autocorrelation + ESS)
 ├── experiments/                 # step_size_sweep.py, friction_sweep.py,
-│                                 # dimension_scaling.py, precision_scaling.py
+│                                # dimension_scaling.py, precision_scaling.py
 ├── plots/                       # generated figures (PNG)
 └── results/                     # generated numerical output (JSON)
 ```
